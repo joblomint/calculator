@@ -4,6 +4,8 @@ A simple, functional calculator built from scratch with **vanilla HTML, CSS, and
 
 ## 🔗 Live Demo
 
+**[https://calc.jkay.my.id/](https://calc.jkay.my.id/)**
+
 Coming soon.
 
 ## ✨ Features
